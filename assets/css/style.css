@@ -1,0 +1,24 @@
+.eidro-blue{
+    color: #38628a
+}
+
+.eidro-green{
+    color: #2ece49
+}
+
+.eidro-white{
+    color: white
+}
+
+.navbar-custom
+{
+
+    background-color:#white !important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #38628a !important;
+    box-shadow: none !important ;
+
+}
+
